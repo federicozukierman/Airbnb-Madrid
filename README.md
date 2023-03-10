@@ -24,3 +24,6 @@ Mis principales conclusiones sobre el mercado de Airbnb en Madrid:
  
 ✅Los distritos con mayor número de reseñas son: Centro, Arganzuela, Barajas, San Blas-Canillejas y Tetuán. Por otra parte, los barrios con más reseñas son: Universidad, Cortes, Embajadores, Alameda de Osuna, Sol y Cuatro Caminos
  
+Enlace a mi informe en Power BI: 
+
+https://bit.ly/3ZILNK9
