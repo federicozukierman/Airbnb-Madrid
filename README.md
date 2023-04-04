@@ -1,5 +1,35 @@
 # Airbnb Madrid
 
+As part of my professional transition to Data Analyst, I am doing a series of projects in which I put into practice the acquired data analysis skills and techniques 📊
+
+In this post I share with you my latest project, oriented to analyze the Airbnb market in Madrid🧳
+
+Airbnb has transformed the life of our cities since its irruption in 2007. In Spain, extra-hotel overnight stays such as Airbnb increased by 50.7% for 2022 as a whole and reached 2019 figures, according to INE data (2023) 📈
+
+In this project I analyze the Airbnb market in Madrid with data updated to December 2022. At a technical level, I used SQL to perform the queries to the database and, once the main indicators were obtained, I connected the data and created the visualizations using Power BI 📶
+
+My main conclusions about the Airbnb market in Madrid:
+
+✅The city of Madrid offers 20,776 Airbnb accommodations, managed by 10,912 owners.
+
+✅The Airbnb market in Madrid has a strong tendency to concentration. One percent of owners manage 20% of the accommodations. Thus 120 owners concentrate the supply of 4,212 accommodations.
+
+✅The Centro district of Madrid, the smallest in the city, has the highest concentration of properties, representing 44% of the total number of accommodations offered.
+
+✅The average price of an Airbnb in Madrid is 160€.
+
+✅The whole accommodation is the most offered type of accommodation. 64% of the accommodations offered are whole houses, compared to 34% of private rooms.
+
+✅The average price of a whole accommodation is 185€.
+
+✅The districts with the highest number of reviews are: Centro, Arganzuela, Barajas, San Blas-Canillejas and Tetuán. On the other hand, the districts with the most reviews are: Universidad, Cortes, Embajadores, Alameda de Osuna, Sol and Cuatro Caminos.
+
+I have used SQL to perform the analysis and answer the questions. I share with you the link to see the complete analysis 👇🏼
+
+https://bit.ly/3ZILNK9
+
+🔠 Spanish version follows:
+
 Como parte de mi transición profesional a Data Analyst, estoy realizando una serie de proyectos en los que pongo en práctica las habilidades y técnicas de análisis de datos adquiridas 📊
  
 En este post os comparto mi último proyecto, orientado a analizar el mercado de Airbnb en Madrid🧳
